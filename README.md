@@ -23,3 +23,12 @@
 -> 
 ## Mobile_Detection
 ->
+
+# mögliche Plugins
+## 1
+-> http://iamceege.github.io/tooltipster/
+-> http://vdw.github.io/Tabslet/
+-> http://www.pixxelfactory.net/jInvertScroll/
+-> http://dimsemenov.com/plugins/magnific-popup/
+-> http://labs.voronianski.com/jquery.avgrund.js/
+-> http://unslider.com/
