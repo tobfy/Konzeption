@@ -26,6 +26,7 @@
 
 # mögliche Plugins
 ## 1
+-> https://github.com/michalsnik/aos
 -> http://iamceege.github.io/tooltipster/
 -> http://vdw.github.io/Tabslet/
 -> http://www.pixxelfactory.net/jInvertScroll/
